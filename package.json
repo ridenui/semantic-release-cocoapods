@@ -80,8 +80,8 @@
     "codecov": "codecov -f coverage/coverage-final.json",
     "lint": "xo",
     "pretest": "npm run lint",
-    "semantic-release": "semantic-release",
-    "test": "nyc ava -v"
+    "test": "nyc ava -v",
+    "release": "release-it"
   },
   "xo": {
     "prettier": true,
