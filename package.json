@@ -1,7 +1,7 @@
 {
   "name": "@ridenui/semantic-release-cocoapods",
   "description": "Cocoapods publishing plugin for semantic-release fork",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Nils Bergmann",
     "email": "nilsbergmann@noim.io"
